@@ -6,4 +6,4 @@ TODO:
 - Deskriptive analyse
 - Imbalanced Data Probleme lösen
 - Machine Learning Model training 
-- Deployment using Heroku and Streamlit
+- Deployment mit Heroku und Streamlit
